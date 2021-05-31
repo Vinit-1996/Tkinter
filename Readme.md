@@ -4,4 +4,10 @@ This will be the demo learning while I am getting myself equipped with Tkinter w
 
 1. Starting with Labels
 
-2. Buttons and Radio
+2. Buttons 
+
+3. Frame
+
+4. Checkboxes
+
+5. Radio Buttons
